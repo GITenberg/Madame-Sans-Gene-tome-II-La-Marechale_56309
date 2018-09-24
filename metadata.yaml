@@ -1,5 +1,5 @@
 _repo: Madame-Sans-Gene-tome-II-La-Marechale_56309
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributors:
   - agent_name: Moreau, Emile
@@ -14,6 +14,9 @@ contributor:
     wikipedia:
     - http://fr.wikipedia.org/wiki/Victorien_Sardou
     - http://en.wikipedia.org/wiki/Victorien_Sardou
+covers:
+- cover_type: archival
+  image_path: 56309-h/images/cover.jpg
 creator:
   author:
     agent_name: Lepelletier, Edmond
@@ -27,6 +30,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7324
     wikipedia: http://fr.wikipedia.org/wiki/Edmond_Lepelletier
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56309#Madame-Sans-Gene-tome-II-La-Marechale
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2018-01-04'
 gutenberg_type: Text
